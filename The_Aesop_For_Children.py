@@ -18,7 +18,7 @@ w=set_display_resolution[0]
 h=set_display_resolution[1]
 screen=pygame.display.set_mode((w,h),RESIZABLE)
 current_text_placing_postion_y=0
-currently_displaying_fable_number=1
+currently_displaying_fable_number=0
 total_fable_number=145
 total_text_line_height=0
 number_of_pixel_forward_on_scroll=0
@@ -99,7 +99,7 @@ while game_running:
 			if abs(event.y)+currently_displaying_fable_number<=total_fable_number:
 				currently_displaying_fable_number+=abs(event.y)
 			elif currently_displaying_fable_number==total_fable_number:
-				currently_displaying_fable_number=1
+				currently_displaying_fable_number=0
 		if event.type==pygame.KEYDOWN:
 			if event.key==pygame.K_f:
 				if font_size+5<50:
