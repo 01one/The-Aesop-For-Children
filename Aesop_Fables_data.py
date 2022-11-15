@@ -1,5 +1,22 @@
 fables=["""
 The Æsop for Children
+Belling the Cat
+The Mice once called a meeting to decide on a plan to free themselves of their enemy, the Cat. At least they wished to find some way of knowing when she was coming, so they might have time to run away. Indeed, something had to be done, for they lived in such constant fear of her claws that they hardly dared stir from their dens by night or day.
+
+Many plans were discussed, but none of them was thought good enough. At last a very young Mouse got up and said:
+
+"I have a plan that seems very simple, but I know it will be successful.
+
+All we have to do is to hang a bell about the Cat's neck. When we hear the bell ringing we will know immediately that our enemy is coming."
+
+All the Mice were much surprised that they had not thought of such a plan before. But in the midst of the rejoicing over their good fortune, an old Mouse arose and said:
+
+"I will say that the plan of the young Mouse is very good. But let me ask one question: Who will bell the Cat?"
+
+It is one thing to say that something should be done, but quite a different matter to do it.
+""",
+"""
+The Æsop for Children
 The Frogs & the Ox
 An Ox came down to a reedy pool to drink. As he splashed heavily into the water, he crushed a young Frog into the mud.
 
@@ -17,24 +34,6 @@ The Frog puffed up still more.
 "He could not have been bigger than this," she said. But the little Frogs all declared that the monster was much, much bigger and the old Frog kept puffing herself out more and more until, all at once, she burst.
 
 Do not attempt the impossible.
-""",
-
-"""
-The Æsop for Children
-Belling the Cat
-The Mice once called a meeting to decide on a plan to free themselves of their enemy, the Cat. At least they wished to find some way of knowing when she was coming, so they might have time to run away. Indeed, something had to be done, for they lived in such constant fear of her claws that they hardly dared stir from their dens by night or day.
-
-Many plans were discussed, but none of them was thought good enough. At last a very young Mouse got up and said:
-
-"I have a plan that seems very simple, but I know it will be successful.
-
-All we have to do is to hang a bell about the Cat's neck. When we hear the bell ringing we will know immediately that our enemy is coming."
-
-All the Mice were much surprised that they had not thought of such a plan before. But in the midst of the rejoicing over their good fortune, an old Mouse arose and said:
-
-"I will say that the plan of the young Mouse is very good. But let me ask one question: Who will bell the Cat?"
-
-It is one thing to say that something should be done, but quite a different matter to do it.
 """,
 
 
