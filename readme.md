@@ -1,13 +1,18 @@
 # The Æsop for Children
-## :computer_mouse: Use Left Mouse Button to scroll
-![Scrolling](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/scrolling.gif)
+> ## :computer_mouse: Use Left Mouse Button to scroll
+> > ![Scrolling](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/scrolling.gif)
+
+> ## :trackball: Use mouse wheel to Move to the next/previsous story
+>  > ![Move to next sotry](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/next.gif)
 
 
+> ## :memo: :trackball: To change font use mouse wheel button
+> > ![Change font](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/change%20font.gif)
 
-
-## :trackball: Use mouse wheel to Move to next/previsous story
-
-![Move to next sotry](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/next.gif)
+> ## :keyboard: Enter key f to change the font size
+> > ![Change font size](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/font%20size.gif)
+> ## Scaling
+> > ![Scaling](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/scaling.gif)
 
 ### Controls
 - Mouse
