@@ -4,7 +4,7 @@
 - Mouse
 - - Right Mouse button to sroll
 - - Left Mouse button to stop scrolling
-- - Mouse wheel to move the next story
+- - Mouse wheel to move to the next story
 - - Mouse wheel button to change the font
 - Keyboard 
 - - press f to change font size
