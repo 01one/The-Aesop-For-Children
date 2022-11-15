@@ -1,9 +1,18 @@
 # The Æsop for Children
+## :computer_mouse: Use Left Mouse Button to scroll
+![Scrolling](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/scrolling.gif)
+
+
+
+
+## :trackball: Use mouse wheel to Move to next/previsous story
+
+![Move to next sotry](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/next.gif)
 
 ### Controls
 - Mouse
-- - Right Mouse button to sroll
-- - Left Mouse button to stop scrolling
+- - Left Mouse button to sroll
+- - Right Mouse button to stop scrolling
 - - Mouse wheel to move to the next story
 - - Mouse wheel button to change the font
 - Keyboard 
