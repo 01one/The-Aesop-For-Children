@@ -1,5 +1,6 @@
-#The Æsop for Children
-###Controls
+# The Æsop for Children
+
+### Controls
 - Mouse
 - - Right Mouse button to sroll
 - - Left Mouse button to stop scrolling
@@ -8,13 +9,14 @@
 - Keyboard 
 - - press f to change font size
 
-#About
+# About
 source:  ***“The Aesop for Children: with Pictures by Milo Winter,”*** published by Rand, McNally & Co in 1919. This work is considered to be in the public domain in the United States.
-collected from: ***[https://www.read.gov/aesop/001.html](https://www.read.gov/aesop/001.html)***
+collected from:
+***[https://www.read.gov/aesop/001.html](https://www.read.gov/aesop/001.html)***
 
 *fonts source: Google fonts*
 
-##A List of the Fables
+## A List of the Fables
 - The Frogs & the Ox
 - Belling the Cat
 - The Town Mouse & the Country Mouse
