@@ -32,11 +32,11 @@ font_list_index=0
 font_size=20
 
 class TextView():
-	def __init__(self,screen,text='',text_position_x=0,text_position_y=0,text_weight=200,text_height=400,text_color="#666666",font_size=20):
+	def __init__(self,screen,text='',text_position_x=0,text_position_y=0,text_widht=200,text_height=400,text_color="#666666",font_size=20):
 		self.screen=screen
 		self.text_position_x=text_position_x
 		self.text_position_y=text_position_y
-		self.text_weight=text_weight
+		self.text_weight=text_widht
 		self.text_height=text_height
 		self.text_color=text_color 
 		self.text=text
@@ -121,5 +121,5 @@ while game_running:
 			number_of_pixel_forward_on_scroll+=.5
 			current_text_placing_postion_y-=.5
 
-	TextView(screen,text=fables[currently_displaying_fable_number],text_position_x=20,text_position_y=10+current_text_placing_postion_y,text_weight=w-50,text_height=h,font_size=font_size)
+	TextView(screen,text=fables[currently_displaying_fable_number],text_position_x=20,text_position_y=10+current_text_placing_postion_y,text_width=w-50,text_height=h,font_size=font_size)
 	pygame.display.update()
