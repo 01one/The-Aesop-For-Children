@@ -32,11 +32,11 @@ font_list_index=0
 font_size=20
 
 class TextView():
-	def __init__(self,screen,text='',text_position_x=0,text_position_y=0,text_widht=200,text_height=400,text_color="#666666",font_size=20):
+	def __init__(self,screen,text='',text_position_x=0,text_position_y=0,text_width=200,text_height=400,text_color="#666666",font_size=20):
 		self.screen=screen
 		self.text_position_x=text_position_x
 		self.text_position_y=text_position_y
-		self.text_weight=text_widht
+		self.text_weight=text_width
 		self.text_height=text_height
 		self.text_color=text_color 
 		self.text=text
