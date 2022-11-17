@@ -14,11 +14,12 @@ icon=pygame.image.load('data/The Aesop for Childern.png')
 pygame.display.set_icon(icon)
 available_display_resolution=pygame.display.list_modes()
 set_display_resolution=[1200,650]
+
 try:
 	set_display_resolution=available_display_resolution[4]
 except:
 	pass
-set_display_resolution=available_display_resolution[4]
+
 w=set_display_resolution[0]
 h=set_display_resolution[1]
 screen=pygame.display.set_mode((w,h),RESIZABLE)
