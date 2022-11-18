@@ -2,7 +2,7 @@
 > ## :computer_mouse: Use Left Mouse Button to scroll
 > > ![Scrolling](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/scrolling.gif)
 
-> ## :trackball: Use mouse wheel to Move to the next/previsous story
+> ## :trackball: Use mouse wheel to Move to the next story
 >  > ![Move to next sotry](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/next.gif)
 
 
