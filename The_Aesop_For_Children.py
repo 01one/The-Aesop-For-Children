@@ -1,7 +1,6 @@
 #  Copyright 2022 Mashiur Rahman Mahid
 #  This program is distributed in the hope that it will be useful,
 #  but WITHOUT ANY WARRANTY
-#  Necessarily Readable code. Hope you all will enjoy the program. Thank you.
 from Aesop_Fables_data import fables
 import glob
 font_list=glob.glob("data/font/*.ttf")
