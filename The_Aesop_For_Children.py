@@ -102,7 +102,7 @@ while game_running:
 			current_text_placing_position_x=0
 
 			if abs(event.y)+currently_displaying_fable_number<=total_fable_number:
-				currently_displaying_fable_number+=abs(event.y)
+				currently_displaying_fable_number+=event.y
 			elif currently_displaying_fable_number==total_fable_number:
 				currently_displaying_fable_number=0
 		if event.type==pygame.KEYDOWN:
