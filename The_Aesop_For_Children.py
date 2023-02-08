@@ -1,4 +1,4 @@
-#  Copyright 2022 Mashiur Rahman Mahid
+#  Copyright 2022-2023 Mashiur Rahman Mahid
 #  This program is distributed in the hope that it will be useful,
 #  but WITHOUT ANY WARRANTY
 from Aesop_Fables_data import fables
