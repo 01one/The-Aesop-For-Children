@@ -1,3 +1,6 @@
+## set the fps to 5 or 10 to decrease load on cpu
+
+
 # The Æsop for Children
 > ## :computer_mouse: Use Left Mouse Button to scroll
 > > ![Scrolling](https://github.com/01one/The-Aesop-For-Children/blob/main/app%20view/scrolling.gif)
