@@ -75,7 +75,9 @@ will_scroll=False
 game_running=True
 while game_running:
 	screen.fill('#F0FFFF')
+	# currently its 60fps .. set it 5 or 10 or less to decrease load on cpu
 	clock.tick(60)
+	
 	for event in pygame.event.get():
 		if event.type==QUIT:
 			pygame.quit()
